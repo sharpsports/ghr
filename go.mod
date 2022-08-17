@@ -5,7 +5,6 @@ go 1.16
 require (
 	github.com/Songmu/retry v0.1.0
 	github.com/google/go-github v17.0.0+incompatible // indirect
-	github.com/google/go-github/v39 v39.2.0
 	github.com/google/go-github/v45 v45.2.0
 	github.com/hashicorp/go-version v1.6.0 // indirect
 	github.com/mattn/go-colorable v0.1.13
